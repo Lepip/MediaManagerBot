@@ -1,5 +1,5 @@
 # MediaManagerBot
-Media manager for tg.
+Media manager for Telegram. Designed for active and music-loving chatgroups. Add this bot to your chat to manage playlists!
 
 Welcome to the Playlist Manager.
 
